@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese el valor del producto'
+5
+1
+5
+valor
+4
+1
+17
+'Ingrese su edad'
+5
+1
+4
+edad
+7
+0
+1
+26
+edad>60 and valor > 100000
+4
+1
+36
+'El valor de su compra fue $', valor
+13
+6
+2
+3
+dto
+6
+v*0.05
+1
+t
+9
+valor-dto
+4
+1
+69
+'El valor neto $', valor, ' valor despues de descuento por edad $', t
+13
+1
